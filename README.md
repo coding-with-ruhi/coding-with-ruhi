@@ -15,7 +15,9 @@ I focus on understanding concepts deeply and improving a little every day.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" 
-       alt="Coding gif"
-       style="width: 220px;" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" 
+       alt="Cute coding animation"
+       style="width: 300px;" />
 </p>
+
+
